@@ -106,7 +106,9 @@ Completion Rate (%) = Completed Students / Total Students
 
 
 ##  Dashboard Visualizations
-![Dashboard Screenshot](NonProfit.png)
+![Dashboard Screenshot](LWGDashboard.png)
+
+![Dashboard Screenshot](LWGDashboard.png)
 
 * Attendance Rate by Program
 * Average Score by Program
