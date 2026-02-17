@@ -80,7 +80,7 @@ Interactive analysis was enabled using:
 * Pivot Tables
 * Slicers
 * KPI Cards
-![Dashboard Screenshot](LWGWorkings.png)
+
 
 
 ##  Key Performance Indicators (KPIs)
@@ -107,7 +107,7 @@ Completion Rate (%) = Completed Students / Total Students
 
 ##  Dashboard Visualizations
 ![Dashboard Screenshot](LWGDashboard.png)
-
+![Dashboard Screenshot](LWGWorkings.png)
 
 * Attendance Rate by Program
 * Average Score by Program
