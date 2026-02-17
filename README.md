@@ -1,4 +1,4 @@
-
+![Dashboard Screenshot](NonProfit.png)
 
 #  Operational Performance Analysis – Learn with George
 
@@ -106,7 +106,7 @@ Completion Rate (%) = Completed Students / Total Students
 
 
 ##  Dashboard Visualizations
-![Dashboard Screenshot](insert-image-link-here)
+![Dashboard Screenshot](NonProfit.png)
 
 * Attendance Rate by Program
 * Average Score by Program
