@@ -1,4 +1,3 @@
-This project analyzes operational performance data for Learn with George, a non-profit education organization in Nigeria. Using Microsoft Excel, I built an interactive dashboard to track attendance, assessment performance, and completion rates across programs and locations, uncovering actionable insights to improve student outcomes and operational efficiency.
 
 #  Operational Performance Analysis – Learn with George
 
