@@ -25,7 +25,6 @@ Management required better visibility into:
 The goal was to identify underperforming programs or locations and highlight at-risk students requiring intervention.
 
 
-
 ##  Data Source
 
 * **Dataset Type:** Learn with George NGO operational dataset
