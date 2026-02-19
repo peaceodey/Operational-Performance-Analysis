@@ -30,7 +30,7 @@ The goal was to identify underperforming programs or locations and highlight at-
 
 * **Dataset Type:** Learn with George NGO operational dataset
 * **Timeframe:** January – June 2025
-* **Level:** Student-level data
+  
 
 ### Key Fields:
 
